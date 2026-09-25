@@ -119,7 +119,7 @@ function App() {
             ))}
           </div>
 
-        
+          <p>{value.description}</p>
         </div>
       )}
 
